@@ -23,7 +23,7 @@
     animation: color 5s infinite;
     font-family: 'Almarai', sans-serif;
     font-size: 14px !important;
-background-color: #14141482;
+background-color: #000000aa !important;
 border-radius: 5px;
     padding: 10px;
 margin: 3px;
@@ -212,9 +212,7 @@ border: black 2px solid;
   .row{
     margin-left: 10px !important;
   }
-#btn3{
 
-}
  }
 
 

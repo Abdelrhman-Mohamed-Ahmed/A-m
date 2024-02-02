@@ -185,7 +185,7 @@ border: black 2px solid;
 
         
         height:280px !important;
-        width:900px !important;
+        width:580px !important;
         margin-left: -100px !important;
         border-radius: 20px !important;
         padding: 20px !important;
@@ -196,7 +196,7 @@ border: black 2px solid;
 display: none;
     }
     #phonetext{
-        margin-left: 50px !important;
+        margin-left: 100px !important;
         scale: 0.8;
     }
     #app2{
@@ -206,15 +206,15 @@ display: none;
                 .apps{
                     
                     scale: 0.6 !important;
-                    margin-left: 10px;
+                    margin-left: 15px;
                 }
 
                 .inbigdiv a{
                     
                    
                    
-                  margin-left: 150px !important;
-                  margin-top: 30px;
+                  margin-left: 70px !important;
+                  margin-top: 40px !important;
                   
                  }
     
@@ -222,13 +222,18 @@ display: none;
     color: #fff;
    text-align: left !important;
     padding: 10px;
-    margin-left: 200px !important;
+    margin-left: 110px !important;
                   
                  }
 
                  .apps{
                     scale: 40px !important;
                 }
+                .bigdiv{
+          margin-left: 60px !important;
+                    width: 300px !important;
+
+                 }
 
         }
 
@@ -286,6 +291,8 @@ padding: 10px;
 margin-left: 400px !important;
             
            }
+           
+
 
           }
 
